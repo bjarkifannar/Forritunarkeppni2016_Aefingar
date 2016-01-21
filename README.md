@@ -1,0 +1,2 @@
+# Forritunarkeppni2016_Aefingar
+Æfingaverkefni fyrir forritunarkeppni framhaldsskólanna 2016
